@@ -1,24 +1,24 @@
 @font-face {
 	font-family:'abondoned';
-	src: url('../font/Abandoned.woff') format('woff');
+	src: url('Abandoned.woff') format('woff');
 	font-weight:normal;
 	font-style:normal;
 }
 @font-face {
 	font-family:'abondoned';
-	src: url('../font/Abandoned-Bold.woff') format('woff');
+	src: url('Abandoned-Bold.woff') format('woff');
 	font-weight:bold;;
 	font-style:normal;
 }
 @font-face {
 	font-family:'abondoned';
-	src: url('../font/Abandoned-Italic.woff') format('woff');
+	src: url('Abandoned-Italic.woff') format('woff');
 	font-weight:normal;
 	font-style:italic;
 }
 @font-face {
 	font-family:'abondoned';
-	src: url('../font/Abandoned-BoldItalic.woff') format('woff');
+	src: url('Abandoned-BoldItalic.woff') format('woff');
 	font-weight:bold;
 	font-style:italic;
 }
